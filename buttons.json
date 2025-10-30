@@ -1,0 +1,13 @@
+[
+    "esc", "f1", "f2", "f3", "f4", "f5", "f6", "f7", "f8", "f9", "f10", "f11", "f12",
+    "print_screen", "scroll_lock", "pause",
+    "1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "-", "=", "backspace",
+    "tab", "q", "w", "e", "r", "t", "y", "u", "i", "o", "p", "\\",
+    "caps_lock", "a", "s", "d", "f", "g", "h", "j", "k", "l", ";", "enter",
+    "shift", "z", "x", "c", "v", "b", "n", "m", ",", ".", "/",
+    "ctrl", "win", "alt", "space", "menu",
+    "insert", "home", "page_up", "delete", "end", "page_down",
+    "up", "left", "down", "right",
+    "num_lock", "num_0", "num_1", "num_2", "num_3", "num_4", "num_5", "num_6", "num_7", "num_8", "num_9",
+    "num_minus", "num_plus", "num_enter"
+]
